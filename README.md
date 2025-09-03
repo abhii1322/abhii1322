@@ -1,16 +1,8 @@
 # Hi 👋, I'm Abhishek Verma
 
-A passionate full stack developer from JSS Academy of Technical Education, Noida, with expertise in building scalable web applications and modern software solutions. I love working with cutting-edge technologies and turning ideas into reality through clean, efficient code.
+A passionate full stack developer from JSS Academy of Technical Education, Noida
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on full stack web applications using React, Node.js, and modern databases
-- 🌱 I'm continuously learning new technologies and best practices in software development
-- 👯 I'm looking to collaborate on open source projects and innovative web solutions
-- 💬 Ask me about JavaScript, React, Node.js, Java, or any web development topics
-- ⚡ Fun fact: I enjoy solving complex problems and optimizing application performance
-
-## 💼 Technical Skills
+## 🚀 Languages and Tools I Use
 
 ### 💻 Languages
 <p align="left">
@@ -20,7 +12,7 @@ A passionate full stack developer from JSS Academy of Technical Education, Noida
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> React
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> Angular
@@ -31,7 +23,7 @@ A passionate full stack developer from JSS Academy of Technical Education, Noida
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML5
 </p>
 
-### 🧠 Backend Development
+### 🧠 Backend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> Node.js
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> Express.js
@@ -40,7 +32,7 @@ A passionate full stack developer from JSS Academy of Technical Education, Noida
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> Nginx
 </p>
 
-### 🛢 Databases & Storage
+### 🛢 Databases
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> MongoDB
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL
@@ -59,28 +51,20 @@ A passionate full stack developer from JSS Academy of Technical Education, Noida
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> Linux
 </p>
 
-### 🎨 Design & UI/UX
+### 🎨 Design
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> Figma
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> Adobe Illustrator
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> Adobe Photoshop
 </p>
 
-## 🏗️ What I Build
-
-- **Full Stack Web Applications**: End-to-end development using React/Angular frontends with Node.js/Java backends
-- **RESTful APIs**: Scalable backend services with proper authentication and database integration
-- **Responsive UI/UX**: Mobile-first designs using modern CSS frameworks and design principles
-- **Database Solutions**: Efficient data modeling and optimization for both SQL and NoSQL databases
-- **Cloud Deployments**: AWS-based hosting with CI/CD pipelines using Jenkins
-
-## ⚡️ Connect With Me
+## ⚡️ Where to find me
 
 <a href="https://www.linkedin.com/in/abhishek-verma-a80b65257/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhii1322&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
@@ -91,5 +75,5 @@ A passionate full stack developer from JSS Academy of Technical Education, Noida
 ---
 
 <p align="center">
-<i>💼 Open to opportunities and collaborations • Let's build something amazing together! 🚀</i>
+<i>Let's connect and build something amazing together!</i>
 </p>
